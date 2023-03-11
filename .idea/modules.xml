@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DistanceCoachingManager/DistanceCoachingManager.iml" filepath="$PROJECT_DIR$/DistanceCoachingManager/DistanceCoachingManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DistanceCoachingManager/src/main/resources/DistanceCoachingManager.iml" filepath="$PROJECT_DIR$/DistanceCoachingManager/src/main/resources/DistanceCoachingManager.iml" />
     </modules>
   </component>
 </project>

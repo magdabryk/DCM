@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/DistanceCoachingManager/pom.xml" />
+        <option value="$PROJECT_DIR$/DistanceCoachingManager/src/main/resources/pom.xml" />
       </list>
     </option>
   </component>
